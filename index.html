@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body data-theme="light">
+    <!-- Dark mode toggle button -->
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <i class="fas fa-moon" id="theme-icon"></i>
+    </div>
+
+    <div class="clock-container">
+        <div class="clock">
+            <span id="hours">00</span><span class="clock-colon">:</span>
+            <span id="minutes">00</span><span class="clock-colon">:</span>
+            <span id="seconds">00</span>
+            <span id="ampm">AM</span>
+        </div>
+
+        <div class="date-display" id="date-display">
+            <!-- Date will be inserted here by JavaScript -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
