@@ -24,8 +24,8 @@ You can view a live demo by opening the `index.html` file in your browser.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/modern-digital-clock.git
-   cd modern-digital-clock
+   git clone https://github.com/akashasahu07/Digital-Clock.git
+   cd Digital-Clock
    ```
 
 2. **Or download the files directly:**
@@ -38,7 +38,7 @@ You can view a live demo by opening the `index.html` file in your browser.
 ## 📁 Project Structure
 
 ```
-modern-digital-clock/
+Digital-Clock/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet with responsive design
@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Akasha Sahu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -198,16 +198,16 @@ A: Make sure your browser allows localStorage. Some privacy modes block it.
 
 ## 🔗 Related Projects
 
-- [Analog Clock](https://github.com/example/analog-clock) - Companion analog clock
-- [World Clock](https://github.com/example/world-clock) - Multiple timezone display
-- [Pomodoro Timer](https://github.com/example/pomodoro-timer) - Productivity timer
+- [Analog Clock](https://github.com/akashasahu07/analog-clock) - Companion analog clock
+- [World Clock](https://github.com/akashasahu07/world-clock) - Multiple timezone display
+- [Pomodoro Timer](https://github.com/akashasahu07/pomodoro-timer) - Productivity timer
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Akasha Sahu**
+- GitHub: [@akashasahu07](https://github.com/akashasahu07)
+- LinkedIn: [akashasahu07](https://linkedin.com/in/akashasahu07)
+- Portfolio: [Digital Clock Project](https://github.com/akashasahu07/Digital-Clock)
 
 ## 🌟 Acknowledgments
 
